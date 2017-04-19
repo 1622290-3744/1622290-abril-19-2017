@@ -1,10 +1,10 @@
-#Primer ejercicio:
+Primer ejercicio:
 
-# archivo > ps -A | wc -c archivo
+archivo > ps -A | wc -c archivo
 
 
-#Segundo ejercicio:
+Segundo ejercicio:
 
-# export var2=2
-# export total=$((var2**4))
-# echo $total
+export var2=2
+export total=$((var2**4))
+echo $total
